@@ -8,6 +8,10 @@ MonospaceTypewriter provides good readability while being a rather slender typef
 
 ![Preview](https://raw.githubusercontent.com/insraq/MonospaceTypewriterDZ/master/mtypr.png)
 
+## License
+
+Please refer to the original license for MonospaceTypewriter: [https://www.fontsquirrel.com/license/MonospaceTypewriter](https://www.fontsquirrel.com/license/MonospaceTypewriter)
+
 ## Other Slender Programming Fonts
 - [Iosevka](https://github.com/be5invis/Iosevka)
 - [M+](https://mplus-fonts.osdn.jp/about-en.html#license)
